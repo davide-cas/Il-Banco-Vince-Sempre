@@ -1,4 +1,5 @@
 # Il Banco Vince Sempre
+
 Progetto per il corso "Metodi Matematici e Statistici", mar-apr 2021.
 
 Lo scopo del lavoro è quello di dimostrare, in termini matematici e statistici, perché nei casinò il banco ha sempre la meglio. Il progetto è stato sviluppato facendo riferimento ad una Roulette Europea. <br>
